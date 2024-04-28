@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Prompt 1: Detailed CT&PET scan images of the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms. The {gender} patient has {chemo_status} undergone chemotherapy treatments.
+Prompt 2: Computerized tomographies of the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms. The {gender} patient has {chemo_status} undergone chemotherapy treatments.
+Prompt 3: Photos of the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms. The {gender} patient has {chemo_status} undergone chemotherapy treatments.
+=======
+Prompt 1: Detailed CT&PET scan images of the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms. The {gender} patient has {chemo_status} undergone chemotherapy treatments.
+Prompt 2: Computerized tomographies of the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms. The {gender} patient has {chemo_status} undergone chemotherapy treatments.
+Prompt 3: Photos of the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms. The {gender} patient has {chemo_status} undergone chemotherapy treatments.
+>>>>>>> 94cee5d2e168d7126365c8751af60b56b0ea719f
+Prompt 4: There is the head and neck area for a {gender} individual, aged {age:.0f} years, weighing approximately {weight:.0f} kilograms in these computerized tomographies. The {gender} patient has {chemo_status} undergone chemotherapy treatments.

@@ -18,17 +18,12 @@ This project presents a deep learning-based solution for Prognosis and Segmentat
 
 ## Technical Highlights
 
-- **Text Embeddings from Electronic Health Records (EHRs)**: Instead of traditional EHR
-vectors, we use advanced textual embeddings derived from state-of-the-art models like
-CLIP  and BioLinkBERT. These embeddings transform textual descriptions into
-rich, semantic representations that are more discriminative and informative.
-- **Development of Specialized Text Prompts**: We craft specific text prompts to capture
-essential information from patient records relevant to H&N cancer. The impact of these
-prompts on segmentation and prognosis prediction, including survival analysis, is thor-
-oughly evaluated through extensive experiments.
-- **Integration of Swin Transformer Encoder**: Replacing the ViT encoder, we incorpo-
-rate the Swin Transformer  encoder to better handle the complexities of spatial data in
-PET/CT images. The Swin Transformer’s hierarchical and shifted window self-attention
+- **Advanced Text Embeddings from EHR**: We employed CLIP and BioLinkBERT
+ to convert EHR textual data into semantic embeddings.
+- **Formulating Specialized Text Prompts**:Our tailored prompts efficiently extract vital data
+from patient records.
+- **Implementation of the Swin Transformer Encoderr**: We replaced the ViT encoder with
+the Swin Transformer.The Swin Transformer’s hierarchical and shifted window self-attention
 mechanisms allow for more effective feature extraction at various scales.
 
 
@@ -40,7 +35,7 @@ Our Model Weights can be found at [Model Weights](https://mbzuaiac-my.sharepoint
   <strong>Figure 1:</strong> TMSS Old Architecture
 </p>
 <p align="center">
-  <embed src="https://github.com/Sarim-MBZUAI/AI702_project/blob/main/cs-tmss.pdf" alt="Our Architecture" width="75%" type="application/pdf"/>
+  <img src="https://github.com/Sarim-MBZUAI/HC701_project/blob/main/architecture.png" alt="Our Architecture" width="75%"/>
   <br>
   <strong>Figure 2:</strong> Our Architecture
 </p>
@@ -167,7 +162,7 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## Contact
-This was done as a course project for AI702 at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+This was done as a course project for HC701 at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
 For any inquiries or further information, please reach out to [sarim.hashmi@mbzuai.ac.ae].
 ## Reference
 This work was built upon:

@@ -168,6 +168,4 @@ For any inquiries or further information, please reach out to [sarim.hashmi@mbzu
 This work was built upon:
 - Hatamizadeh, Ali, et al. "Swin unetr: Swin transformers for semantic segmentation of brain tumors in mri images." International MICCAI Brainlesion Workshop. Cham: Springer International Publishing, 2021.
 
-- Saeed, Numan, et al. "TMSS: an end-to-end transformer-based multimodal network for segmentation and survival prediction." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2022.
-"# AI702_project" 
-"# HC701_project" 
+- Saeed, Numan, et al. "TMSS: an end-to-end transformer-based multimodal network for segmentation and survival prediction." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2022
